@@ -1,4 +1,4 @@
-tecnologias utilizadas: codeblocks(para escrever e rodar a aplicação)
+tecnologias utilizadas: codeblocks(para escrever e rodar a aplicação), linguagem c#/c++
 
 bibliotecas: <stdio.h>, <time.h>, <cstdlib>
 
@@ -6,9 +6,9 @@ como rodar aplicação: tendo o codebloks devidamente instaldo e aberto na maqui
 aperte "ctrl+o" navegue até onde a pasta do desafio foi salva, e dentro, selecione e abra o projeto, e então aperte a tecla de atahlo "f9" para rodar o codigo.
 ou entre na pasata do projeto e abra: "2campgeminidesafio.exe"
 
-******************************************************************************************************************************************************************************************
-*esse é o codigo comentado caso não consiga abrir a aplicação**esse é o codigo comentado caso não consiga abrir a aplicação**esse é o codigo comentado caso não consiga abrir a aplicação*
-******************************************************************************************************************************************************************************************
+****************************************************************************************************************************
+*esse é o codigo comentado caso não consiga abrir a aplicação**esse é o codigo comentado caso não consiga abrir a aplicação*
+****************************************************************************************************************************
 
 
 #include <stdio.h>
@@ -66,10 +66,9 @@ for (i=0; i<5; i++)
 
 
 
-**********************************************************************************************************************************************************************************************
-**esse é o codigo sem comentarios, para só copiar e colar, caso não consiga abrir a aplicação****esse é o codigo sem comentarios, para só copiar e colar, caso não consiga abrir a aplicação**
-**********************************************************************************************************************************************************************************************
-
+***********************************************************************************************
+**esse é o codigo sem comentarios, para só copiar e colar, caso não consiga abrir a aplicação**
+***********************************************************************************************
 #include <stdio.h>
 #include <time.h>
 #include <cstdlib>
