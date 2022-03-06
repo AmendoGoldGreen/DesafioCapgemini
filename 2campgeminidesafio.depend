@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646521533 source:c:\users\gabri\onedrive\Área de trabalho\desafio cap gemini\2campgeminidesafio\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<cstdlib>
+
